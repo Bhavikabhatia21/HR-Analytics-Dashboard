@@ -79,20 +79,9 @@ The dashboard enables users to filter data by multiple dimensions and quickly un
 
 ## 📷 Dashboard Preview
 
-> Add your dashboard screenshot here.
+.
 
-Example:
-
-```
-Images/dashboard.png
-```
-
-or
-
-```markdown
-![Dashboard](Images/dashboard.png)
-```
-
+<img width="1366" height="738" alt="Image" src="https://github.com/user-attachments/assets/dd9dc3a8-1f60-4ffd-8e99-52ef6643f75b" />
 ---
 
 ## 📂 Project Structure
