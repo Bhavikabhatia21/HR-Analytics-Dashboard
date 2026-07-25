@@ -89,20 +89,23 @@ The dashboard enables users to filter data by multiple dimensions and quickly un
 ```
 HR-Analytics-Dashboard/
 │
-├── Dashboard/
-│   └── HR Analytics Dashboard.pbix
+├── Dataset/
+│   └── WA_Fn-UseC_-HR-Employee-Attrition.csv
 │
-├── Data/
-│   └── HR_Analytics.csv
+├── SQL/
+│   ├── create_table.sql
+│   ├── import_data.sql
+│   └── analysis_queries.sql
 │
-├── Images/
-│   └── dashboard.png
+├── PowerBI/
+│   └── HR_Analytics.pbix
 │
+├── Dashboard.png
 ├── README.md
 └── LICENSE
 ```
 
----
+
 
 ## 🚀 Future Enhancements
 
